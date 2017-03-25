@@ -11,7 +11,7 @@ namespace RSNK.FinancesChedker.Web.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application test description page.";
 
             return View();
         }
