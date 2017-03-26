@@ -10,8 +10,8 @@
         </ProjectTypeGuids>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>RSNG.FinancesChedker.Web</RootNamespace>
-        <AssemblyName>RSNG.FinancesChedker.Web</AssemblyName>
+        <RootNamespace>RSNG.FinancesChecker.Web</RootNamespace>
+        <AssemblyName>RSNG.FinancesChecker.Web</AssemblyName>
         <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
